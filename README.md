@@ -1,6 +1,5 @@
 # Data_Science_Portfolio
 ### ABOUT ME 
-
 Hello!
 
 My name is Lesego Maponyane, and I'm a passionate data scientist with a strong desire to leverage the power of data to solve real-world problems.
@@ -16,3 +15,5 @@ What excites me about data science:
 ## PROJECTS
 
 ## Project 1: Electrification by Eskom Power Station
+This project aims to explore public sentiment and discussions on social media concerning Eskom power stations and electrification efforts across South Africa's provinces.
+
