@@ -17,4 +17,4 @@ What excites me about data science:
 ## Project 1: Electrification by Eskom Power Station
 This project aims to explore public sentiment and discussions on social media concerning Eskom power stations and electrification efforts across South Africa's provinces.
 
-![](https://github.com/lesego-maponyane/Data_Science_Portfolio/blob/main/images/Eskom%20power%20station.jpeg)
+![](https://github.com/lesego-maponyane/Data_Science_Portfolio/blob/main/PYTHON/Images/Eskom%20power%20station.jpeg)
