@@ -1,11 +1,11 @@
-## Data_Science_Portfolio
+# Data_Science_Portfolio
 Introduction
 
 Hello!
 
 My name is Lesego Maponyane, and I'm a passionate data scientist with a strong desire to leverage the power of data to solve real-world problems.
 
-# What excites me about data science:
+## What excites me about data science:
 
 Uncovering hidden insights: I find it fascinating to delve into data and uncover patterns and trends that might not be readily apparent. This ability to extract knowledge from information is what truly drives me.
 
