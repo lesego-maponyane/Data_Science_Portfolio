@@ -1,5 +1,5 @@
 # Data_Science_Portfolio
-## About me
+### About me
 
 Hello!
 
@@ -13,4 +13,4 @@ Problem-solving with data: I enjoy the challenge of taking a complex problem, fo
 
 Impact through data: The potential of data science to make a positive impact on various fields, from business to healthcare to social good, is incredibly motivating. 
 
-### Projects
+## Projects
