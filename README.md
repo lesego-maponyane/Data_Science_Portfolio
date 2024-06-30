@@ -11,4 +11,6 @@ Uncovering hidden insights: I find it fascinating to delve into data and uncover
 
 Problem-solving with data: I enjoy the challenge of taking a complex problem, formulating it into a data-driven question, and then using data analysis techniques to find solutions.
 
-Impact through data: The potential of data science to make a positive impact on various fields, from business to healthcare to social good, is incredibly motivating,
+Impact through data: The potential of data science to make a positive impact on various fields, from business to healthcare to social good, is incredibly motivating. 
+
+### Projects
